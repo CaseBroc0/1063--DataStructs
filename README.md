@@ -1,2 +1,4 @@
 # 1063--DataStructs
-Class programs for DataStructs
+## Profssor Jeremy Geleb 
+## Class programs for DataStructs
+## Midwesten State University 
